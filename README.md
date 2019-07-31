@@ -3,7 +3,7 @@
 
 
 ## 소개
-![프로필이미지](https://github.com/favicon.ico){:height="100px" width="100px"}
+![프로필이미지](https://github.com/developer-ted/RESUME/raw/master/images/profile.jpeg)
 - 이름: 김지완
 - 생년월일: 1990. 11. 03
 
