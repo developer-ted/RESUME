@@ -1,24 +1,35 @@
 # 이력서
 [한국어](./README.md) [English](./README_en.md)
 
+<br/>
 
 ## 소개
 ![프로필이미지](https://github.com/developer-ted/RESUME/raw/master/images/profile.jpeg)
 - 이름: 김지완
 - 생년월일: 1990. 11. 03
 
+<br/>
+
 손으로 10초면 충분히 할 수 있는 일을 <br/>
 컴퓨터로 **하루 종일 프로그래밍해서 자동으로 수행**할 때, <br/>
 저는 더할 나위 없이 큰 행복을 느낍니다.
+
+<br/>
 
 - 취미: **카페코딩**, 음악, 노래, 다트, 운동, 여행
 - Email: it.dev.ted@gmail.com
 - GitHub: [github.com/developer-ted](https://github.com/developer-ted)
 - LinkedIn: [linkedin.com/in/developer-ted](https://www.linkedin.com/in/developer-ted/)
 
+<br/>
+
 ```
 If I can make good services, I don't care about anything else.
 ```
+
+
+<br/>
+<br/>
 
 
 ## 회사경력
@@ -38,6 +49,9 @@ If I can make good services, I don't care about anything else.
     기획 및 서버, 안드로이드 개발을 맡아서 하였고, 대표 역할을 하였습니다
 
 
+<br/>
+<br/>
+
 
 ## 단체경력
 - 스터디 그룹 'WITHEVER' 활동 (2015 - 현재)
@@ -45,9 +59,16 @@ If I can make good services, I don't care about anything else.
 - 개발 동아리 'MARS' 회장으로 활동 (2009 - 2012)
 
 
+<br/>
+<br/>
+
+
 ## 학력
 - 동양미래대학교 전산정보학부 졸업 (2009 ~ 2012)
     전문학사, 전산정보학부 4.34/4.5 수석 졸업
+
+<br/>
+<br/>
 
 
 ## 사용 기술
@@ -87,6 +108,10 @@ If I can make good services, I don't care about anything else.
 
 앞으로는 아래것들을 익히려고 합니다.
 - Domain Driven Design
+
+
+<br/>
+<br/>
 
 
 
