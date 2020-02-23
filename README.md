@@ -33,26 +33,27 @@ If I can make good services, I don't care about anything else.
 
 
 # 회사경력
-## [TEDMONG] (2019. 05 - 현재) <br/>
-    현재 TEDMONG에서 다양한 서비스 개발을 맡아서 하고 있습니다.
+### [TEDMONG] (2019. 05 - 현재) <br/>
+현재 TEDMONG에서 다양한 서비스 개발을 맡아서 하고 있습니다.
     
-## [Madsquare] [매드스퀘어](http://madsquare.net) (2015. 03 - 2019. 04) <br/>
-    매드스퀘어는 승인된 탑 인플루언서들이 활동하는 전용 플랫폼을 구축하여 제품을 판매 하거나 제품을 홍보하는 목표량에 따라, 수익을 쉐어하는 아시아 8개국 최고의 인플루언서 플랫폼인 'CHARIS'를 운영하는 회사입니다.
-    개발 팀장을 맡았고, 안드로이드와 아이폰 개발을 맡아서 하였습니다. 
+### [Madsquare] [매드스퀘어](http://madsquare.net) (2015. 03 - 2019. 04) <br/>
+매드스퀘어는 승인된 탑 인플루언서들이 활동하는 전용 플랫폼을 구축하여 제품을 판매 하거나 제품을 홍보하는 목표량에 따라, 수익을 쉐어하는 아시아 8개국 최고의 인플루언서 플랫폼인 'CHARIS'를 운영하는 회사입니다.
+개발 팀장을 맡았고, 안드로이드와 아이폰 개발을 맡아서 하였습니다. 
     
-## [HandStudio] [핸드스튜디오](http://handstudio.net) (2014. 02 - 2015. 03) <br/>
-    핸드스튜디오는 Mobile, WEB, SmartTV 등 다양한 분야의 디지털 미디어 시장을 선도하는 회사입니다. 
-    연구원으로 안드로이드 개발을 맡아서 하였습니다
+### [HandStudio] [핸드스튜디오](http://handstudio.net) (2014. 02 - 2015. 03) <br/>
+핸드스튜디오는 Mobile, WEB, SmartTV 등 다양한 분야의 디지털 미디어 시장을 선도하는 회사입니다. 
+연구원으로 안드로이드 개발을 맡아서 하였습니다
     
-## [K&S Company] [케이엔에스] (2013. 01 - 2014. 01)
-    모바일 Application을 서비스 기획 및 제작하는 회사입니다. 
-    기획 및 서버, 안드로이드 개발을 맡아서 하였고, 대표 역할을 하였습니다
+### [K&S Company] [케이엔에스] (2013. 01 - 2014. 01)
+모바일 Application을 서비스 기획 및 제작하는 회사입니다. 
+기획 및 서버, 안드로이드 개발을 맡아서 하였고, 대표 역할을 하였습니다
 
 
 <br/>
 <br/>
 
-## 사용 기술
+
+# 사용 기술
 ### Android
 - Kotlin, JAVA
 - Android Architecture Components
@@ -383,7 +384,7 @@ If I can make good services, I don't care about anything else.
 <br/>
 
 
-## 학력
+# 학력
 - 동양미래대학교 전산정보학부 졸업 (2009 ~ 2012)
 전문학사, 전산정보학부 4.34/4.5 수석 졸업
 
@@ -391,7 +392,7 @@ If I can make good services, I don't care about anything else.
 <br/>
 
 
-## 단체경력
+# 단체경력
 - 스터디 그룹 'WITHEVER' 활동 (2015 - 현재)
 - 스터디 그룹 'DEPS' 활동 (2017 - 2018)
 - 개발 동아리 'MARS' 회장으로 활동 (2009 - 2012)
@@ -402,7 +403,7 @@ If I can make good services, I don't care about anything else.
 
 
 
-## 수상 경력
+# 수상 경력
 
 ### <SAMSUNG GEAR APP CHALLENGER> 동상 수상
 - 수상 날짜 : 2014년 11월
@@ -468,7 +469,7 @@ If I can make good services, I don't care about anything else.
 <br/>
 
 
-## 기타 활동
+# 기타 활동
 ### <캠퍼스 CEO> 2018년도 창업멘토링 / 창업 코칭 프로그램
 - 소개 : 2018년도 캠퍼스 CEO 육성사업을 진행하기 위한 창업 멘토링 및 창업 코칭 프로그램에 멘토로 참여
 - 기관 : 동양미래대학교 기술창업지원센터
@@ -504,7 +505,7 @@ If I can make good services, I don't care about anything else.
 
 
 
-## 교육 / 연수
+# 교육 / 연수
 ### 2013 건국대학교 일반인 창업아카데미 교육 수료
 - 소개 : 일반인, 예비창업자 등을 대상으로 실전창업교육, 성공한 CEO의 멘토링 등을 통해 경쟁력 있는 창업자 발굴·육성하는 사업
 - 기관 : 건국대학교
