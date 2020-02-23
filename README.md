@@ -1,7 +1,4 @@
 # 이력서
-[한국어](./README.md) [English](./README_en.md)
-
-<br/>
 
 ## 소개
 ![프로필이미지](https://github.com/developer-ted/RESUME/raw/master/images/profile.jpeg)
@@ -106,8 +103,6 @@ If I can make good services, I don't care about anything else.
     - Android 어플리케이션 개발
     - Hybrid 어플리케이션 개발
 
-<br/>
-
 ### 시각장애인을 위한 지하철 네비게이션
 - 소개 : 시각장애인분들을 위한 지하철 네비게이션 애플리케이션
 - 기간 : 2019.12 ~ 2020.02
@@ -118,8 +113,6 @@ If I can make good services, I don't care about anything else.
     - 서비스 Project Manager 역할
     - Android 어플리케이션 개발
 
-<br/>
-
 ### Meething
 - 소개 : 국내 인플루언서 기반을 두고 제품을 판매하는 샐럽형 커머스 플랫폼
 - 기간 : 2019.08 ~ 2019.12
@@ -127,8 +120,6 @@ If I can make good services, I don't care about anything else.
 - 서비스: [웹사이트](https://meething.co.kr)
 - 업무 성과
     - 서비스 Project Manager 역할
-
-<br/>
 
 ### My Clair
 - 소개 : 공기청정기 제어 및 실시간 날씨/미세먼지 알림 서비스 
@@ -140,8 +131,6 @@ If I can make good services, I don't care about anything else.
     - 실시간 날씨 및 미세먼지 알림 서비스 구현
     - iOS 어플리케이션 개발
 
-<br/>
-
 ### APOTEK
 - 소개 : 건강식품 판매 쇼핑몰
 - 기간 : 2019.06 ~ 2019.06
@@ -150,12 +139,9 @@ If I can make good services, I don't care about anything else.
 - 서비스: [Android](https://play.google.com/store/apps/details?id=com.apotek), [iOS](https://apps.apple.com/cn/app/아포텍/id1470042994)
 - 사용기술 : Kotlin, Java, Databinding, Fabric, Retrofit, Firebase, JavaScript 통신, QR 코드 리더 등
 - 업무 성과
-    - Android 어플리케이션 개발
-    - iOS 어플리케이션 개발
+    - Android, iOS 어플리케이션 개발
     - Hybrid 어플리케이션 개발    
     - QR 코드를 활용한 정품 인증 기능 구현
-
-<br/>
 
 ### 서울대창업지원단
 - 소개 : 서울대학교 창업지원단 소개, 공간예약, 디바이스 대여 및 프로그램 신청을 제공하는 서울대 창업 지원단 정식 서비스
@@ -187,8 +173,6 @@ If I can make good services, I don't care about anything else.
     - SNS 연동 및 각 SNS 플레이어 적용
     - 서비스 전략 기획 및 UI/UX 설계
 
-<br/>
-
 ### CHARIS CELEB 
 - 소개 : 동남아시아 8개국 각 현지의 인플루언서들을 위한 커뮤니티 플렛폼
 - 기간 : 2016.09 ~ 2019.04
@@ -202,8 +186,6 @@ If I can make good services, I don't care about anything else.
     - SNS 연동 및 각 SNS 플레이어 적용
     - 서비스 전략 기획 및 UI/UX 설계
 
-<br/>
-
 ### Humax H5 Aware TV with Snacks
 - 소개 : Humax H5 Aware 셋탑박스와 Snack 서비스를 콜라보하는 Android TV Luncher 개발
 - 기간 : 2016.04 ~ 2016.09
@@ -215,8 +197,6 @@ If I can make good services, I don't care about anything else.
     - 영상 송수신 기능, LiveApp 및 메모리 최적화 경험
     - 각종 Animation과 Service, DB 사용 경험
     - SNS에서 받아온 영상 플레이어 개발 (WebView, ExoPlayer, MediaPlayer, YoutubePlayer 등)
-
-<br/>
 
 ### 스낵 (Snackk)
 - 소개 : 영상을 모아서 나의 채널을 만들고, 사용자들에게 공유할 수 있는 플렛폼에서 영상 추천을 해주는 플렛폼으로 변화  
@@ -230,7 +210,6 @@ If I can make good services, I don't care about anything else.
     - SNS에서 받아온 영상 플레이어 개발 (WebView, ExoPlayer, MediaPlayer, YoutubePlayer 등)
     - 서비스 전략 기획 및 UI/UX 설계
     - 다양한 UI/UX, 애니메이션 설계 및 구현
-
 
 <br/>
 <br/>
@@ -248,8 +227,6 @@ If I can make good services, I don't care about anything else.
     - 서비스 전략 기획 및 UI/UX 설계
     - 다양한 UI/UX, 애니메이션 설계 및 구현
 
-<br/>
-
 ### 한화 My Health Up 
 - 소개 : 한화와 순천향대 서울병원이 함꼐한 한국형 모바일 헬스 케어 플렛폼 
 - 기간 : 2014.09 ~ 2014.11
@@ -259,8 +236,6 @@ If I can make good services, I don't care about anything else.
 - 업무 성과
     - Android 어플리케이션 개발
     - Surface View 애니메이션 구현
-
-<br/>
 
 ### RunGO
 - 소개 : Android 앱과 Android Gear를 이용하여 운동 측정/그룹별 경쟁 플렛폼
@@ -274,8 +249,6 @@ If I can make good services, I don't care about anything else.
     - Android와 Gear 연결 서비스 구현
     - 각종 그래프 및 UI 구현
 
-<br/>
-
 ### JSTB
 - 소개 : JSTB TV 편성표
 - 기간 : 2014.07 ~ 2014.08
@@ -283,8 +256,6 @@ If I can make good services, I don't care about anything else.
 - 사용기술 : JavaScript, css, Bootstrap
 - 업무 성과
     - 웹 퍼블리싱 경험 
-
-<br/>
 
 ### New Generation TV
 - 소개 : 삼성에서 개발하는 차세대 TV에 테블릿 리모콘을 활용하여 다양한 서비스를 이용할 수 있는 서비스
@@ -297,8 +268,6 @@ If I can make good services, I don't care about anything else.
     - 모바일 영상 처리 기술 구현
     - 각종 애니메이션 구현
     - UX 전략 기획 및 UI/UX 설계
-
-<br/>
 
 ### Monkey Age
 - 소개 : Unity를 이용한 미니 게임 개발
@@ -326,8 +295,6 @@ If I can make good services, I don't care about anything else.
     - 프로젝트 전체적인 구상, 구현 및 설계
     - UX 전력 기획 및 UI/UX 설계
     - 정부 기관과의 협업 
-
-<br/>
 
 ### 째깍악어
 - 소개 :  아이돌보미, 베이비시터 등 아이를 돌봐주는 서비스 
@@ -358,8 +325,6 @@ If I can make good services, I don't care about anything else.
     - 랭킹 시스템 구현
     - GCM Push Server 구현
 
-<br/>
-
 ### School Note (실시간 알림장 서비스)
 - 소개 : 아이들의 알림장 서비스 및 학부모와 선생님과의 대화 및 소통의 매개체가 되는 서비스 
 - 기간 : 2013.07 ~ 2013.09
@@ -369,8 +334,6 @@ If I can make good services, I don't care about anything else.
     - PHP 서버 개발
     - Android 어플리케이션 개발
     - 캘린더 개발
-
-<br/>
 
 ### Shake Safe (성 범죄 예방 쉐이크 알림 어플리케이션)
 - 소개 : 현대 사회에서 급증하고 있는 성범죄에 대한 정보 제공 및 예방 서비스
@@ -383,8 +346,6 @@ If I can make good services, I don't care about anything else.
     - PHP, Tomcat, MySQL을 이용한 통신기능
     - 서버 DB에 저장된 사건 발생 지역을 통계로 보기 기능 (achartengine)
 
-<br/>
-
 ### SearchAp
 - 소개 : 무선 랜 접속점(AP)를 찾아내는 어플리케이션 
 - 기간 : 2013.09 ~ 2013.10
@@ -394,8 +355,6 @@ If I can make good services, I don't care about anything else.
     - Android LocationManager, WifiManager를 이용해 데이터 수집
     - 삼각측량법을 활용한 AP Position을 찾는 알고리즘 구현
     - 찾은 AP Position을 좌표위에 보여주는 시스템
-    
-<br/>
 
 ### Smart Shoes
 - 소개 : 블루투스를 이용하여 운동량을 측정하는 서비스
@@ -406,8 +365,6 @@ If I can make good services, I don't care about anything else.
     - 신발에 장착된 블루투스와 연동하여 이동경로를 체크하는 서비스
     - 운동 시 칼로리와 운동량, 이동거리 등 모인 정보 측정/분석
     - 각종 그래프를 통해 정보를 보여주는 시스템 구현
-
-<br/>
 
 ### TV Manager
 - 소개 : 해외 인기 프로그램 추천 및 해외의 일정하지 않은 TV 편성표 프로그램 정보를 모아서 보여주는 서비스 
@@ -437,8 +394,6 @@ If I can make good services, I don't care about anything else.
     - Google Map API를 이용한 GPS 개발
     - Android 개발
 
-<br/>
-
 ### 실시간 알림장 어플리케이션
 - 소개 : 나의 위치와 사진, 글 등을 표시하여 친구와 공유하는 서비스
 - 기간 : 2012.03 ~ 2014.12
@@ -450,8 +405,6 @@ If I can make good services, I don't care about anything else.
     - Java Socket 통신으로 한 서버 구현
     - Google Map API를 이용한 GPS 개발
     - iOS 개발
-
-<br/>
 
 ### Basta 
 - 소개 : 연예인 연습생들과 팬들이 소통할 수 있는 서비스
