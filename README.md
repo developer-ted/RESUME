@@ -442,7 +442,7 @@ If I can make good services, I don't care about anything else.
 
 # 수상 경력
 
-### 삼성 <SAMSUNG GEAR APP CHALLENGER> 동상 수상
+### <삼성 기어 앱 챌린저> 동상 수상
 - 수상 날짜 : 2014년 11월
 - 시상기관 : SAMSUNG
 - 설명 : 삼성에서 주최한 <SAMSUNG GEAR APP CHALLENGER>에서 Android 및 Gear 앱 개발을 하였습니다.<br/>2014. 07 ~ 2014. 11 기간 동안 진행이 되었고, 동상을 수상했습니다
