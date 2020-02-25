@@ -442,16 +442,16 @@ If I can make good services, I don't care about anything else.
 
 # 수상 경력
 
+### 삼성 <SAMSUNG GEAR APP CHALLENGER> 동상 수상
+- 수상 날짜 : 2014년 11월
+- 시상기관 : SAMSUNG
+- 설명 : 삼성에서 주최한 <SAMSUNG GEAR APP CHALLENGER>에서 Android 및 Gear 앱 개발을 하였습니다.<br/>2014. 07 ~ 2014. 11 기간 동안 진행이 되었고, 동상을 수상했습니다
+
+
 ### <2012 이브와 프로젝트 멘토링> 지식경제부 장관상 대상 수상
 - 수상 날짜 : 2012년 11월
 - 시상기관 : 지식경제부, IT 여성 기업인 협회
 - 설명 : 지식 경제부, IT 여상 기업인 협회에서 주최한 <2012 이브와 프로젝트 멘토링>에 프로젝트 팀장으로 참가하였습니다.<br/>2012. 04 ~ 2012. 11 기간 동안 진행이 되었고, 지식경제부 장관상 대상을 수상하였습니다.
-
-
-### <SAMSUNG GEAR APP CHALLENGER> 동상 수상
-- 수상 날짜 : 2014년 11월
-- 시상기관 : SAMSUNG
-- 설명 : 삼성에서 주최한 <SAMSUNG GEAR APP CHALLENGER>에서 Android 및 Gear 앱 개발을 하였습니다.<br/>2014. 07 ~ 2014. 11 기간 동안 진행이 되었고, 동상을 수상했습니다
 
 
 ### <2012 한국 전자전> 장려상 수상
