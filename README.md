@@ -14,7 +14,7 @@
 <br/>
 
 - 취미: **카페코딩**, 음악, 노래, 다트, 운동, 여행
-- Email: it.dev.ted@gmail.com
+- Email: it.tedmong@gmail.com
 - GitHub: [github.com/developer-ted](https://github.com/developer-ted)
 - LinkedIn: [linkedin.com/in/developer-ted](https://www.linkedin.com/in/developer-ted/)
 
@@ -30,8 +30,14 @@ If I can make good services, I don't care about anything else.
 
 
 # 회사경력
-### [TEDMONG] 테드몽 (2019. 05 - 현재) <br/>
-현재 TEDMONG에서 다양한 서비스 개발을 맡아서 하고 있습니다.<br/>
+### [Wealive] 위얼라이브 (2022. 09 - 현재) <br/>
+현재 Wealive에서 ualive 서비스 개발을 맡아서 하고 있습니다.<br/>
+
+### [InnovineKorea] 이노바인코리아 (2020. 07 - 2022. 08) <br/>
+이노바인코리아에서 푸름웰니스 커머스 서비스에서 Project Owner로써 서비스 총 책임을 맡아서 진행하였습니다..<br/>    
+
+### [TEDMONG] 테드몽 (2019. 05 - 2020. 07) <br/>
+TEDMONG에서 다양한 서비스 개발을 맡아서 하였습니다.<br/>
     
 ### [Madsquare] [매드스퀘어](http://madsquare.net) (2015. 03 - 2019. 04) <br/>
 매드스퀘어는 승인된 탑 인플루언서들이 활동하는 전용 플랫폼을 구축하여 제품을 판매 하거나 제품을 홍보하는 목표량에 따라, 수익을 쉐어하는 아시아 8개국 최고의 인플루언서 플랫폼인 'CHARIS'를 운영하는 회사입니다.<br/>
@@ -53,6 +59,8 @@ If I can make good services, I don't care about anything else.
 # 사용 기술
 ### Android
 - Kotlin, JAVA
+- RxKotlin
+- Coroutines, Clean Architecture
 - Android Architecture Components
 - HTTP, Restful API
 - MVP, MVVM 등의 디자인 패턴
@@ -62,6 +70,7 @@ If I can make good services, I don't care about anything else.
 
 ### iOS
 - Swift, Objective-C
+- RxSwift & RxCocoa
 - AutoLayout, Constraint, Storyboard
 - HTTP, Restful API
 - MVP, MVVM 등의 디자인 패턴
@@ -92,6 +101,27 @@ If I can make good services, I don't care about anything else.
 
 
 # 프로젝트 이력
+## Wealive
+### ualive
+- 소개 : 팝 뮤직 큐레이션 플랫폼
+- 기간 : 2022.08 ~ 현재
+- 업무 : 서비스기획, 디자인, 모바일(Android, iOS) 개발 등 서비스 전 분야에 총 책임을 맡아서 진행하였습니다.
+- 서비스: [Android](https://play.google.com/store/apps/details?id=com.wealive.ualive), [iOS](https://apps.apple.com/app/id1623412964)
+- 업무 성과
+    - 서비스 기획 및 디자인
+    - 모바일 개발 (Android, iOS)
+
+
+## InnovineKorea
+### Prumwellness
+- 소개 : ‘생활에 필요한 모든 것’. 마스크, 식품, 생활용품 등 생활 전반적인 카테고리 커머스 플랫폼
+- 기간 : 2020.07 ~ 2022.08
+- 업무 : Project Owner로써 기획, 디자인, 개발, 마케팅 등 서비스 전 분야에 총 책임을 맡아서 진행하였습니다.
+- 서비스: [Android](https://play.google.com/store/apps/details?id=com.innovinekorea.prumwellness), [iOS](https://apps.apple.com/app/id1587658515)
+- 업무 성과
+    - 누적 회원 35만여명 유치
+
+
 ## TEDMONG
 ### Farota
 - 소개 : FAROTA 노지농업, 시설농업에 적용할 수 있는 가장 진보한 관수/관비 솔루션
